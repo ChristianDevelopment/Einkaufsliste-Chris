@@ -2,3 +2,8 @@ main {
    background-color: whitesmoke; 
    font-size: 13pt;
 }
+.whatever{
+   background: red;
+   color: greenyellow;
+   padding: 20px;
+}
